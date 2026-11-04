@@ -25,3 +25,4 @@ article h2{margin-top:36px}
 footer{border-top:1px solid var(--line);background:var(--card);padding:22px 0;font-family:Arial,sans-serif;font-size:.85rem;color:var(--muted)}
 footer a{color:var(--muted);margin-right:14px}
 @media (max-width:600px){.hero h1{font-size:1.8rem}nav a{margin:0 12px 0 0}}
+.pimg{width:100%;aspect-ratio:1/1;object-fit:contain;background:#fff;border-radius:8px;margin-bottom:10px}
