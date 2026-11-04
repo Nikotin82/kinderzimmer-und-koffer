@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /profilbild.html
+Sitemap: https://kinderzimmer-und-koffer.de/sitemap.xml
